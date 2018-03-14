@@ -1,9 +1,30 @@
 h1{
-	color:red;
-	
+	color:black;
 }
 
 img{
 	width:200px;
 }
-
+.redText {
+	color: black;
+}
+.blackText {
+	color: black;
+	text-align: center;
+}
+.bigText {
+	font-size: 50px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+}
+.christmasBackground {
+	background-image: url(Windows.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+.picture {
+	text-align: center;
+}
+.rule {
+	text-align: center;
+}
