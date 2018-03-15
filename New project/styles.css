@@ -1,0 +1,40 @@
+.header {
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px 50px 20px 100px;
+}
+.body {
+    background-image: url(1.jpg);
+    padding: 100px 50px 75px 100px;
+    background-size: 100%;
+    background-position: center;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+.footer {
+    padding: 25px 50px 50px 150px;
+    border: 1px solid black;
+    background-color: white;
+}
+.center {
+    font-size: 15px;
+}
+.right {
+    font-size: 15px;
+}
+.heading {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.topRight {
+    text-align: right;
+    margin-top: -20px;
+    margin-right: 300px;
+}
+.topCenter {
+    margin-left: 200px;
+}
