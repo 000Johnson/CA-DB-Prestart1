@@ -1,0 +1,30 @@
+﻿header {
+    border: 3px solid blue;
+/*height: 50px;*/
+}
+main {
+    /*margin: 0px auto;*/
+    border: 5px solid green;
+    /*height: 300px;*/
+    width: 1000px;
+    margin: 0px auto;
+}
+footer {
+    height: 50px;
+    border: 5px solid purple;
+}
+.logo {
+    width: 150px;
+}
+.conteiner {
+    width: 960px;
+    margin: 0px auto;
+    text-align: center;
+}
+.topSpace {
+    padding-top: 50px;
+}
+.copyright {
+    text-align: center;
+    padding: 30px;
+}
