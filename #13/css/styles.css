@@ -1,0 +1,114 @@
+nav {
+    background: black;
+    padding: 15px 0px;
+}
+.img5 {
+    float: left;
+}
+#nav1 {
+    position: absolute;
+    bottom: 0px;
+    right: 20px;
+}
+.nav a {
+    color: white;
+}
+.default1 {
+    margin: 0 auto;
+    padding-bottom: 5px;
+}
+.heading10 h3 {
+    color: white;
+    margin-left: 150px;
+}
+
+#first {
+    background: url("../img/4.jpg") 0 center;
+    background-size: cover;
+
+    padding-top: 200px;
+    padding-bottom: 200px;
+    max-height: 300px;
+}
+
+#first h1 {
+    font-family: 'Allura';
+    font-style: italic;
+    color: white;
+    font-size: 60px;
+}
+#first p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+}
+#first .BigInfo {
+    text-align: center;
+    margin-top: -70px;
+}
+.BigInfo h1 p {
+    font-family: cursive;
+}
+h3 {
+    color: white;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+#second {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.info-box {
+    background-color: white;
+    min-height: 50px;
+    text-align: center;
+    border: 1px solid orange;
+    border-radius: 75px;
+    padding: 10px 0px;
+}
+.article-icon {
+    font-size: 40px;
+    color: orange;
+}
+.article-heading {
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+}
+.article-text {
+    font-size: 15px;
+    font-family: cursive;
+}
+.article-text a {
+    color: white;
+}
+footer {
+    background-color: black;
+    height: 1100px;
+    padding: 20px 0px;
+}
+.contact1 {
+    color: white;
+    font-family: cursive;
+}
+.location {
+    margin:0 auto;
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+}
+
+.contact-form .form-input {
+    padding: 5px 0px;
+}
+.social-bar {
+    font-size: 50px;
+    padding-top: 30px;
+}
+.social-bar a {
+    color: orange;
+}
+.copy {
+    color: white;
+    padding-top: 10px;
+}
